@@ -2,7 +2,7 @@
 
 > **Production-Ready Machine Learning Pipeline for Diabetes Risk Assessment**
 
-![Status](https://img.shields.io/badge/Status-Production%20Ready-green) ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![License](https://img.shields.io/badge/License-MIT-blue)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-green) ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
 ---
 

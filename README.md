@@ -1,4 +1,4 @@
-# 🏥 Advanced Diabetes Prediction System - Indian Population
+# Advanced Diabetes Prediction System - Indian Population
 
 > **Production-Ready Machine Learning Pipeline for Diabetes Risk Assessment**
 

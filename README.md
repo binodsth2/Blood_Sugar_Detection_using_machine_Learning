@@ -64,7 +64,7 @@ The model demonstrates strong predictive performance on unseen data:
 
 ### Model Performance
 
-![Performance]([images/model_performance.png](https://raw.githubusercontent.com/binodsth2/ML-Based_Diabetes_Risk_Prediction_Using_Clinical_Data/810242870bf04d1e029302c91a01fb7cf1f12edb/model_performance_comparison.svg))
+![Performance](https://raw.githubusercontent.com/binodsth2/ML-Based_Diabetes_Risk_Prediction_Using_Clinical_Data/fe9777003f52177a51ae75c10aee9d48e6299664/model_performance_comparison.svg)
 
 ### ROC Curve
 
@@ -72,7 +72,7 @@ The model demonstrates strong predictive performance on unseen data:
 
 ### Confusion Matrix
 
-![Confusion]([images/confusion_matrix.png](https://raw.githubusercontent.com/binodsth2/ML-Based_Diabetes_Risk_Prediction_Using_Clinical_Data/19e50c69724c897f81d3d5ca1fb6e3a19b79e38f/confusion_matrix.svg))
+![Confusion](https://raw.githubusercontent.com/binodsth2/ML-Based_Diabetes_Risk_Prediction_Using_Clinical_Data/fe9777003f52177a51ae75c10aee9d48e6299664/confusion_matrix.svg)
 
 ---
 

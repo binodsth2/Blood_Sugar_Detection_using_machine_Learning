@@ -44,7 +44,7 @@ The focus is not just accuracy—but **interpretability, reliability, and real-w
 
 ## System Architecture
 
-![Architecture](Block Diagram.drawio (1) (1).svg)
+![Architecture](https://raw.githubusercontent.com/binodsth2/ML-Based_Diabetes_Risk_Prediction_Using_Clinical_Data/7163cdd10033d46469a6279e68f680e0c9930b72/overall_architecture.svg)
 
 ---
 
@@ -64,19 +64,15 @@ The model demonstrates strong predictive performance on unseen data:
 
 ### Model Performance
 
-![Performance](images/model_performance.png)
+![Performance]([images/model_performance.png](https://raw.githubusercontent.com/binodsth2/ML-Based_Diabetes_Risk_Prediction_Using_Clinical_Data/810242870bf04d1e029302c91a01fb7cf1f12edb/model_performance_comparison.svg))
 
 ### ROC Curve
 
-![ROC](images/roc_curve.png)
+![ROC](https://raw.githubusercontent.com/binodsth2/ML-Based_Diabetes_Risk_Prediction_Using_Clinical_Data/7163cdd10033d46469a6279e68f680e0c9930b72/roc_curve.svg)
 
 ### Confusion Matrix
 
-![Confusion](images/confusion_matrix.png)
-
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
+![Confusion]([images/confusion_matrix.png](https://raw.githubusercontent.com/binodsth2/ML-Based_Diabetes_Risk_Prediction_Using_Clinical_Data/19e50c69724c897f81d3d5ca1fb6e3a19b79e38f/confusion_matrix.svg))
 
 ---
 
